@@ -4,8 +4,8 @@ Text Style
 
 **Aren Cantik** (Bold)  
 *Aren Cantik Pisan* (Italic)  
-Atun ~Maratun~ (coret)  
-**Yoga** (bold italic)  
+Atun ~~Maratun~~ (coret)  
+***Yoga*** (bold italic)  
 
 > Aren Cantik  
 
